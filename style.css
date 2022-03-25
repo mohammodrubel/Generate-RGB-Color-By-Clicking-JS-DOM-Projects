@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    /* width: 100vh;
+    height: 100vh; */
+}
+.container{
+    text-align: center;
+    padding: 100px 100px;
+}
+.btn{
+    padding: 8px;
+    color: black;
+    background-color: white;
+    border: none;
+    transition: .3s;
+    font-weight: 600;
+}
+.btn:hover{
+    background-color: red;
+    text-shadow: 1px solid white;
+}
